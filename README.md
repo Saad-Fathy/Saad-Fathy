@@ -4,7 +4,7 @@ I'm a passionate Backend Developer in Training focused on building scalable, rel
 
 - 🌱 Currently learning: Python backend development, APIs, Docker
 - 🔭 Working on: personal backend projects
-- 🌍 Languages: Python, SQL, Bash | Human: Arabic (native), English (fluent)
+- 🌍 Languages: Arabic (native), English (Intermediate)
 - 📫 Reach me at: saad.fathy.abdelkareem@gmail.com
 - ⚡ Fun fact: Slow but steady wins the race (قليل دائم خير من كثير منقطع)
 
