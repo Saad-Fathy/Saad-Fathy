@@ -32,8 +32,7 @@ I'm a passionate Backend Developer in Training focused on building scalable, rel
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **https://www.linkedin.com/in/saad-fathy
+- **https://x.com/Saad_Fathy_
 
 
