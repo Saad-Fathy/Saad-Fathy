@@ -32,6 +32,6 @@ You can check out the repository here https://github.com/Saad-Fathy/airbnb-clone
 ## Get in Touch 📬
 
 - https://www.linkedin.com/in/saad-fathy
-- https://x.com/Saad_Fathy_
+- https://x.com/SaadFathie
 
 ✨ Thanks for stopping by! Feel free to explore my repos and connect. Let’s build something great together 🚀
