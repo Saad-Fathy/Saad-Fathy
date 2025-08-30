@@ -24,11 +24,9 @@ I'm a passionate Backend Developer in Training focused on building scalable, rel
 
 ### Airbnb Clone Project
 
-![Project 1 Screenshot](project_1_screenshot_url)
+**The Airbnb Clone Project** is a a real-world learning project designed to simulate the development of a scalable booking platform inspired by Airbnb. built with **Django**, **PostgreSQL**, **GraphQL**, **Celery**, **Redis**, **Docker**, **CI/CD Pipelines**. The project focuses on backend systems, database design, API development, and application security, while also exposing learners to collaborative workflows and modern DevOps practices.
 
-**The Airbnb Clone Project** is a **a real-world learning project designed to simulate the development of a scalable booking platform inspired by Airbnb.** built with **Django, PostgreSQL, GraphQL, Celery, Redis, Docker, CI/CD Pipelines **. The project focuses on backend systems, database design, API development, and application security, while also exposing learners to collaborative workflows and modern DevOps practices.
-
-**. You can check out the repository here https://github.com/Saad-Fathy/airbnb-clone-project.
+You can check out the repository here https://github.com/Saad-Fathy/airbnb-clone-project.
 
 ## Get in Touch 📬
 
