@@ -30,7 +30,7 @@ You can check out the repository here https://github.com/Saad-Fathy/airbnb-clone
 
 ## Get in Touch 📬
 
-- **https://www.linkedin.com/in/saad-fathy
-- **https://x.com/Saad_Fathy_
+- https://www.linkedin.com/in/saad-fathy
+- https://x.com/Saad_Fathy_
 
 
