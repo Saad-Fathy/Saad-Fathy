@@ -1,6 +1,4 @@
 # Hi there, I'm Saad Fathy! 👋
-https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white
-![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 I'm a passionate Backend Developer Learner focused on building scalable, reliable systems with Python. Currently, I’m sharpening my skills in backend foundations — APIs, databases, and system design — while exploring tools like Docker, Git, and cloud platforms.
 
