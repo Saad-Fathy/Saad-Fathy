@@ -1,6 +1,6 @@
 # Hi there, I'm Saad Fathy! 👋
 
-I'm a passionate Backend Developer in Training focused on building scalable, reliable systems with Python. Currently, I’m sharpening my skills in backend foundations — APIs, databases, and system design — while exploring tools like Docker, Git, and cloud platforms.
+I'm a passionate Backend Developer Learner focused on building scalable, reliable systems with Python. Currently, I’m sharpening my skills in backend foundations — APIs, databases, and system design — while exploring tools like Docker, Git, and cloud platforms.
 
 My background as a mechanical engineer trained me to approach challenges with structure and persistence. I enjoy breaking down complex systems into simple, logical solutions, and I believe in steady growth:
 💡 “slow but steady wins the race.”
