@@ -29,8 +29,7 @@ My background as a mechanical engineer trained me to approach challenges with st
 
 You can check out the repository here https://github.com/Saad-Fathy/airbnb-clone-project.
 
-## Get in Touch 📬
-
+## Contact 📬
 - https://www.linkedin.com/in/saad-fathy
 - https://x.com/SaadFathie
 
