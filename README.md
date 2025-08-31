@@ -33,4 +33,13 @@ You can check out the repository here https://github.com/Saad-Fathy/airbnb-clone
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-fathy)
 - [![X](https://img.shields.io/badge/X-Profile-black?logo=x&logoColor=white)](https://x.com/SaadFathie)
 
+<a href="https://www.linkedin.com/in/saad-fathy">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30"/>
+</a>
+
+<a href="https://x.com/SaadFathie">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" alt="X" width="30"/>
+</a>
+
+
 ✨ Thanks for stopping by! Feel free to explore my repos and connect. Let’s build something great together 🚀
