@@ -31,6 +31,8 @@ You can check out the repository here https://github.com/Saad-Fathy/airbnb-clone
 
 ## Contact 📬
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-fathy)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-fathy)
+
 - [![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/SaadFathie)
 
 ✨ Thanks for stopping by! Feel free to explore my repos and connect. Let’s build something great together 🚀
