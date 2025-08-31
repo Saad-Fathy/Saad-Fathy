@@ -5,7 +5,7 @@ I'm a passionate Backend Developer Learner focused on building scalable, reliabl
 My background as a mechanical engineer trained me to approach challenges with structure and persistence. I enjoy breaking down complex systems into simple, logical solutions, and I believe in steady growth:
 💡 “slow but steady wins the race.”
 
-- 🌱 Currently learning: Python backend development, APIs, Docker
+- 🌱 Currently enrolled in the **ProDev Backend Program** with ALX, where I’m building strong foundations in Python, APIs, databases, and backend systems.  
 - 🔭 Working on: personal backend projects
 - 🌍 Languages: Arabic (native), English (Intermediate)
 - 📫 Reach me at: saad.fathy.abdelkareem@gmail.com
