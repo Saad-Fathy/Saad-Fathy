@@ -12,7 +12,7 @@ My background as a mechanical engineer trained me to approach challenges with st
 
 ## My Skills 🧠
 
-(https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Saad](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
