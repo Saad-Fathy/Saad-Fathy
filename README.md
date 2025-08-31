@@ -1,5 +1,8 @@
 # Hi there, I'm Saad Fathy! 👋
 
+![<SaadFathy>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
 I'm a passionate Backend Developer Learner focused on building scalable, reliable systems with Python. Currently, I’m sharpening my skills in backend foundations — APIs, databases, and system design — while exploring tools like Docker, Git, and cloud platforms.
 
 My background as a mechanical engineer trained me to approach challenges with structure and persistence. I enjoy breaking down complex systems into simple, logical solutions, and I believe in steady growth:
