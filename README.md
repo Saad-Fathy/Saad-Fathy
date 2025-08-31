@@ -8,7 +8,6 @@ My background as a mechanical engineer trained me to approach challenges with st
 - 🌱 Currently enrolled in the **ProDev Backend Program** with [ALX](https://www.alxafrica.com/), where I’m building strong foundations in Python, APIs, databases, and backend systems.  
 - 🔭 Working on: personal backend projects
 - 🌍 Languages: Arabic (native), English (Intermediate)
-- 📫 Reach me at: saad.fathy.abdelkareem@gmail.com
 
 ## My Skills 🧠
 
@@ -32,6 +31,6 @@ You can check out the repository here https://github.com/Saad-Fathy/airbnb-clone
 ## Contact 📬
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-fathy)
 - [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/SaadFathie)
-- ![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)
+- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](saad.fathy.abdelkareem@gmail.com)
 
 ✨ Thanks for stopping by! Feel free to explore my repos and connect. Let’s build something great together 🚀
