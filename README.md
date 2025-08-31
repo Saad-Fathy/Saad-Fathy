@@ -30,7 +30,7 @@ My background as a mechanical engineer trained me to approach challenges with st
 You can check out the repository here https://github.com/Saad-Fathy/airbnb-clone-project.
 
 ## Contact 📬
-- [Linkedin](https://www.linkedin.com/in/saad-fathy)
-- [X](https://x.com/SaadFathie)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saad-fathy)
+- [![X](https://img.shields.io/badge/X-Profile-black?logo=x&logoColor=white)](https://x.com/SaadFathie)
 
 ✨ Thanks for stopping by! Feel free to explore my repos and connect. Let’s build something great together 🚀
